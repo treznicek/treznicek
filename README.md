@@ -2,7 +2,7 @@
 - 👀 I’m interested in bioinformatics!
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on simple bioinformatics problems
-- 📫 How to reach me: treznicek@unomaha.edu
+- 📫 How to reach me: treznicek@unmc.edu
 
 I am in the process of recovering my projects from my undergraduate
   universities core linux server and will add them to my GitHub
